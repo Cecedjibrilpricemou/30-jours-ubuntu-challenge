@@ -1,3 +1,16 @@
+B
+A
+A
+A
+D
+D
+D
+C
+dans ce fichier je debute D
+D
+C
+C
+
 # Jour 1 - Navigation
 total 20
 drwxrwxr-x 4 gourou gourou 4096 Nov  9 09:58 .
